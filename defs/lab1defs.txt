@@ -1,2 +1,7 @@
 mkdir lage en mappe 
 ls liste over filer i gjeldende katalog med kommando pwd
+cd Bytte til en annen mappe/plassering
+ls -l  liste over filer i gjeldende plassering. Ikke skjulte filer.
+ls -la liste over absolutt alle filer i gjeldende plassering  
+pwd Viser gjeldende plassering
+
