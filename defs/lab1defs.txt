@@ -4,4 +4,12 @@ cd Bytte til en annen mappe/plassering
 ls -l  liste over filer i gjeldende plassering. Ikke skjulte filer.
 ls -la liste over absolutt alle filer i gjeldende plassering  
 pwd Viser gjeldende plassering
+Pipes betyr at du 2 prosessser kan kommunisere uten at de er designet for hverandre,
+redirection
+grep brukes til å søke på tekst i filer. 
+cat kan brukes til vise, kopiere, kombinere tekst filer og i tillegg 
+lage en ny tekst fil.
+
+less gjør det mulig å se hvilken som helst fil eller hvilken del av filen
+
 
