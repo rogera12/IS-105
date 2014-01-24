@@ -1,2 +1,2 @@
 mkdir lage en mappe 
-
+ls liste over filer i gjeldende katalog med kommando pwd
